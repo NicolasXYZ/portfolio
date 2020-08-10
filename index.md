@@ -9,7 +9,7 @@
 
 ---
 [Building exchanges for economic contracts - definitions and prototypes](/pdf/sample_presentation.pdf)
-<img src="images/tallystickSwiss.jpg?raw=true"/>
+<img src="images/tallyStickSwitz.png?raw=true"/>
 
 ---
 
