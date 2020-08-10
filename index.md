@@ -4,7 +4,7 @@
 
 ### Current working papers 
 
-[Monetary anchoring and inflation - through multiagents multiperiod models](/sample_page)
+[Monetary anchoring and inflation - through multiagent multiperiod dynamic modelling](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
