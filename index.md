@@ -13,7 +13,7 @@
 
 ---
 [Fully-homomorphic multiparty computation - forthcoming August 2020 Harvard Data Science Review paper with Andrew Lo, Vinod Vaikuntanathan, Leo de Castro et al.](https://hdsr.mitpress.mit.edu/pub/gylaxji4/release/1)
-<img src="Screen Shot 2020-08-10 at 9.14.52 AM.png?raw=true"/>
+<img src="images/Screen Shot 2020-08-10 at 9.14.52 AM.png?raw=true"/>
 
 ---
 
