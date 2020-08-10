@@ -24,7 +24,7 @@
 - [A not-yet RCTed project aiming at developing agricultural self-sufficience in remote Burkinabe villages (project coordinator 2013-2015)](http://fcpe.henriiv.free.fr/pdf/20140207_StagesMathsPhysique.pdf)
 - [Bayes Impact x Data for Good - a grassroot experiment at defining values and organizing volunteering within the data science community (core organizer 2016-2018)](https://dataforgood.fr/)
 - [AlgoTransparency - one of Data for Good's most impactful and covered project](https://algotransparency.org/)
-- [2 personal articles, 1 report and dozens of interviews I lead on AI and on the dynamics of adoption of new technologies in the financial sector, 1970-now, in the Revue des Ingénieurs des Mines (member of the editorial comittee, 2016-2018)] (https://www.inter-mines.org/fr/revue/numeros/intelligence-artificielle-economie-circulaire/141)
+- [2 personal articles, 1 report and dozens of interviews I lead on AI and on the dynamics of adoption of new technologies in the financial sector, 1970-now, in the Revue des Ingénieurs des Mines (member of the editorial comittee, 2016-2018)](https://www.inter-mines.org/fr/revue/numeros/intelligence-artificielle-economie-circulaire/141)
 - [All the above and beyond - some personal musing on Medium](https://medium.com/@nicolaszhang)
 
 ---
