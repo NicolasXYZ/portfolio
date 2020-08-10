@@ -5,7 +5,7 @@
 ### Current working papers 
 
 [Monetary anchoring and inflation - through multiagent multiperiod dynamic modelling](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
 
 ---
 [Building exchanges for economic contracts - definitions and prototypes](/pdf/sample_presentation.pdf)
