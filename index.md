@@ -13,7 +13,7 @@
 
 ---
 [Fully-homomorphic multiparty computation - forthcoming August 2020 Harvard Data Science Review paper with Andrew Lo, Vinod Vaikuntanathan, Leo de Castro et al.](https://hdsr.mitpress.mit.edu/pub/gylaxji4/release/1)
-<img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
+<img src="Screen Shot 2020-08-10 at 9.14.52 AM.png?raw=true"/>
 
 ---
 
@@ -23,6 +23,8 @@
 - [Acoustic Wells - deploying dynamic system modelling through IoT and AI (lead data scientist)](https://www.acoustic-wells.com/)
 - [A not-yet RCTed project aiming at developing agricultural self-sufficience in remote Burkinabe villages (project coordinator 2013-2015)](http://fcpe.henriiv.free.fr/pdf/20140207_StagesMathsPhysique.pdf)
 - [Bayes Impact x Data for Good - a grassroot experiment at defining values and organizing volunteering within the data science community (core organizer 2016-2018)](https://dataforgood.fr/)
+- [AlgoTransparency - one of Data for Good's most impactful and covered project](https://algotransparency.org/)
+- [2 personal articles, 1 report and dozens of interviews I lead on AI and on the dynamics of adoption of new technologies in the financial sector, 1970-now, in the Revue des Ingénieurs des Mines (member of the editorial comittee, 2016-2018)] (https://www.inter-mines.org/fr/revue/numeros/intelligence-artificielle-economie-circulaire/141)
 - [All the above and beyond - some personal musing on Medium](https://medium.com/@nicolaszhang)
 
 ---
