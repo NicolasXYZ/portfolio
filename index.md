@@ -1,29 +1,25 @@
-## Portfolio
+## Project portfolio
 
 ---
 
-### Category Name 1 
+### Current working papers 
 
-[Project 1 Title](/sample_page)
+[Monetary anchoring and inflation - through multiagents multiperiod models](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Building exchanges for economic contracts - definitions and prototypes](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Continuing projects and companies
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Cardabel - Unsupervised learning for financial fraud detection (first employee)](http://cardabel.com/)
+- [Acoustic Wells - deploying dynamic system modelling through IoT and AI (lead data scientist)](https://www.acoustic-wells.com/)
+- [A not-yet RCTed project aiming at developing agricultural self-sufficience in remote Burkinabe villages (project coordinator 2013-2015)](http://fcpe.henriiv.free.fr/pdf/20140207_StagesMathsPhysique.pdf)
+- [Bayes Impact x Data for Good - a grassroot experiment at defining values and organizing volunteering within the data science community (core organizer 2016-2018)](https://dataforgood.fr/)
+- [All the above and beyond - some personal musing on Medium](https://medium.com/@nicolaszhang)
 
 ---
 
