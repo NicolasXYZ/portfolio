@@ -12,6 +12,10 @@
 <img src="images/tallyStickSwitz.png?raw=true"/>
 
 ---
+[Fully-homomorphic multiparty computation - forthcoming August 2020 Harvard Data Science Review paper with Andrew Lo, Vinod Vaikuntanathan, Leo de Castro et al.](https://hdsr.mitpress.mit.edu/pub/gylaxji4/release/1)
+<img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
+
+---
 
 ### Continuing projects and companies
 
