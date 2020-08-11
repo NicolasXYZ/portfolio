@@ -8,6 +8,9 @@
 <img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
 
 ---
+[Mechanism design and the next Bretton Woods - a strategy-proof anchoring (built on the monetary modelling just above, and the optimal borrowing-lending contracts just below)](/pdf/sample_presentation.pdf)
+
+---
 [Building exchanges for economic contracts - definitions and prototypes](/pdf/sample_presentation.pdf)
 <img src="images/tallyStickSwitz.png?raw=true"/>
 
