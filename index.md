@@ -20,7 +20,7 @@
 ### Continuing projects and companies
 
 - [Cardabel - Unsupervised learning for financial fraud detection (first employee)](http://cardabel.com/)
-- [Acoustic Wells - deploying dynamic system modelling through IoT and AI (lead data scientist)](https://www.acoustic-wells.com/)
+- [Acoustic Wells - deploying dynamic system modelling through IoT and AI (data scientist and handyman)](https://www.acoustic-wells.com/)
 - [A not-yet RCTed project aiming at developing agricultural self-sufficience in remote Burkinabe villages (project coordinator 2013-2015)](http://fcpe.henriiv.free.fr/pdf/20140207_StagesMathsPhysique.pdf)
 - [Bayes Impact x Data for Good - a grassroot experiment at defining values and organizing volunteering within the data science community (core organizer 2016-2018)](https://dataforgood.fr/)
 - [AlgoTransparency - one of Data for Good's most impactful and covered project](https://algotransparency.org/)
