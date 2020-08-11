@@ -8,14 +8,14 @@
 <img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
 
 ---
-[Mechanism design and the next Bretton Woods - a strategy-proof anchoring (built on the monetary modelling just above, and the optimal borrowing-lending contracts just below)](/pdf/sample_presentation.pdf)
+[Mechanism design and the next Bretton Woods - a strategy-proof anchoring (built on the monetary modelling just above, the optimal contracts just below, and our fully-homomorphic multiparty technology described in the 08/2020 Harvard Data Science Review)](/pdf/sample_presentation.pdf)
 
 ---
 [Building exchanges for economic contracts - definitions and prototypes](/pdf/sample_presentation.pdf)
 <img src="images/tallyStickSwitz.png?raw=true"/>
 
 ---
-[Fully-homomorphic multiparty computation - forthcoming August 2020 Harvard Data Science Review paper with Andrew Lo, Vinod Vaikuntanathan, Leo de Castro et al.](https://hdsr.mitpress.mit.edu/pub/gylaxji4/release/1)
+[Fully-homomorphic multiparty computation - forthcoming August 2020 Harvard Data Science Review paper with Andrew Lo, Vinod Vaikuntanathan, Daniel Weitzner et al.](https://hdsr.mitpress.mit.edu/pub/gylaxji4/release/1)
 <img src="images/Screen Shot 2020-08-10 at 9.14.52 AM.png?raw=true"/>
 
 ---
