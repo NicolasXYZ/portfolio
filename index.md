@@ -4,14 +4,14 @@
 
 ### Current working papers 
 
-[Monetary anchoring and inflation - through multiagent multiperiod dynamic modelling](/sample_page)
+[Monetary anchoring and inflation - through multiagent multiperiod dynamic modelling](https://nbviewer.jupyter.org/github/NicolasXYZ/MPC_experiment/blob/master/SASvFinancialCycles.ipynb?flush_cache=true)
 <img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
 
 ---
-[Mechanism design and the next Bretton Woods - a strategy-proof anchoring (built on the monetary modelling just above, the optimal contracts just below, and our fully-homomorphic multiparty technology described in the 08/2020 Harvard Data Science Review)](/pdf/sample_presentation.pdf)
+[Mechanism design and the next Bretton Woods - a strategy-proof anchoring (built on the monetary modelling just above, the optimal contracts just below, and our fully-homomorphic multiparty technology described in the 08/2020 Harvard Data Science Review)](https://nbviewer.jupyter.org/github/NicolasXYZ/MPC_experiment/blob/master/SASvFinancialCycles.ipynb?flush_cache=true)
 
 ---
-[Building exchanges for economic contracts - definitions and prototypes](/pdf/sample_presentation.pdf)
+[Building exchanges for economic contracts - definitions and prototypes](https://nbviewer.jupyter.org/github/NicolasXYZ/FHEauctions/blob/master/index.ipynb?flush_cache=true)
 <img src="images/tallyStickSwitz.png?raw=true"/>
 
 ---
