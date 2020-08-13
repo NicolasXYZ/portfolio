@@ -4,7 +4,7 @@
 
 ### Current working papers 
 
-[Monetary anchoring and inflation - through multiagent multiperiod dynamic modelling](https://nbviewer.jupyter.org/github/NicolasXYZ/MPC_experiment/blob/master/SASvFinancialCycles.ipynb?flush_cache=true)
+[Monetary anchoring and inflation - through dynamic multiagent multiperiod computational modelling](https://nbviewer.jupyter.org/github/NicolasXYZ/MPC_experiment/blob/master/SASvFinancialCycles.ipynb?flush_cache=true)
 <img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
 
 ---
