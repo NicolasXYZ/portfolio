@@ -11,7 +11,7 @@
 [Mechanism design and the next Bretton Woods - a strategy-proof anchoring (built on the monetary modelling just above, the optimal contracts just below, and our fully-homomorphic multiparty technology described in the 08/2020 Harvard Data Science Review)](https://nbviewer.jupyter.org/github/NicolasXYZ/MPC_experiment/blob/master/SASvFinancialCycles.ipynb?flush_cache=true)
 
 ---
-[Building exchanges for economic contracts - definitions and prototypes](https://nbviewer.jupyter.org/github/NicolasXYZ/FHEauctions/blob/master/index.ipynb?flush_cache=true)
+[Building exchanges for economic contracts - definitions and prototypes](https://nicolasxyz.github.io/FHEauctions/)
 <img src="images/tallyStickSwitz.png?raw=true"/>
 
 ---
