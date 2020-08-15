@@ -8,7 +8,7 @@
 <img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
 
 ---
-[Mechanism design and the next Bretton Woods - a strategy-proof anchoring (built on the monetary modelling just above, the optimal contracts just below, and our fully-homomorphic multiparty technology described in the 08/2020 Harvard Data Science Review)](https://nbviewer.jupyter.org/github/NicolasXYZ/MPC_experiment/blob/master/SASvFinancialCycles.ipynb?flush_cache=true)
+[Mechanism design and the next Bretton Woods - a strategy-proof anchoring (built on the monetary modelling just above, the optimal contracts just below, and our fully-homomorphic multiparty technology described in the 08/2020 Harvard Data Science Review)](https://nicolasxyz.github.io/MPC_experiment/)
 
 ---
 [Building exchanges for economic contracts - definitions and prototypes](https://nicolasxyz.github.io/FHEauctions/)
@@ -22,7 +22,7 @@
 
 ### Continuing projects and companies
 
-- [Cardabel - Unsupervised learning for financial fraud detection (first employee)](http://cardabel.com/)
+- [Cardabel - Unsupervised learning for financial fraud detection (first employee & member of cofounding team)](http://cardabel.com/)
 - [Acoustic Wells - deploying dynamic system modelling through IoT and AI (data scientist and handyman)](https://www.acoustic-wells.com/)
 - [A not-yet RCTed project aiming at developing agricultural self-sufficience in remote Burkinabe villages (project coordinator 2013-2015)](http://fcpe.henriiv.free.fr/pdf/20140207_StagesMathsPhysique.pdf)
 - [Bayes Impact x Data for Good - a grassroot experiment at defining values and organizing volunteering within the data science community (core organizer 2016-2018)](https://dataforgood.fr/)
