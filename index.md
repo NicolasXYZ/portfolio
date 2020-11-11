@@ -4,7 +4,7 @@
 
 ### Current working papers 
 
-[Monetary anchoring and inflation - through dynamic multiagent multiperiod computational modelling](https://bit.ly/inflationSAS)
+[Monetary anchoring and inflation - through multiagent multiperiod computational modelling](https://bit.ly/inflationSAS)
 <img src="images/Screen Shot 2020-04-03 at 7.15.56 PM.png?raw=true"/>
 
 ---
